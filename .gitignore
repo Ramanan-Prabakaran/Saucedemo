@@ -1,0 +1,13 @@
+# Node dependencies
+node_modules/
+
+# Playwright auto-generated outputs
+#test-results/
+html-report/
+
+# OS and log files
+.DS_Store
+*.log
+
+# IDE-specific
+.vscode/

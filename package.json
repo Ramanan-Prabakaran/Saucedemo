@@ -1,0 +1,23 @@
+{
+  "name": "saucedemo-checkout",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "description": "✅ Automates full checkout flow on [SauceDemo](https://www.saucedemo.com) using Playwright + POM + Data-Driven testing.",
+  "main": "playwright.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1"
+  },
+  "dependencies": {
+    "papaparse": "^5.5.3",
+    "xlsx": "^0.18.5"
+  }
+}
