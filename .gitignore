@@ -2,8 +2,9 @@
 node_modules/
 
 # Playwright auto-generated outputs
-#test-results/
+test-results/
 html-report/
+playwright-report/
 
 # OS and log files
 .DS_Store
