@@ -72,6 +72,7 @@ The framework loops through all users and executes the checkout flow conditional
 
 **✅ standard_user: completes flow successfully**
 <img width="1280" height="720" alt="test-finished-1" src="https://github.com/user-attachments/assets/f280fbf1-309c-4b1b-ab6a-c63baffa23c7" />
+[video.webm](https://github.com/user-attachments/assets/a7562c9a-5a7b-4e59-a7fa-a313bb55c9e3)
 
 **⚠️ problem_user: verifies broken image handling**
 <img width="1280" height="720" alt="test-failed-1" src="https://github.com/user-attachments/assets/79ea883b-197c-4797-b195-edc414b148af" />
