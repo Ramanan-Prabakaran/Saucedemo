@@ -76,9 +76,11 @@ The framework loops through all users and executes the checkout flow conditional
 
 **⚠️ problem_user: verifies broken image handling**
 <img width="1280" height="720" alt="test-failed-1" src="https://github.com/user-attachments/assets/79ea883b-197c-4797-b195-edc414b148af" />
+[video.webm](https://github.com/user-attachments/assets/dea77a06-32a8-41fe-9061-8e416373e326)
 
 **🚫 locked_out_user: asserts error message handling**
 <img width="1280" height="720" alt="test-finished-1" src="https://github.com/user-attachments/assets/2de245bf-581c-40de-8c9f-cd742b73f6f4" />
+[video.webm](https://github.com/user-attachments/assets/d3b1ca47-7fc0-408a-8e21-8c23c52f8d44)
 
 **Key Features**
 
@@ -122,5 +124,7 @@ Error Handling	Try/catch + assertions for negative cases
 Test Coverage	Includes positive, negative, and dynamic obstacles
 Reporting	HTML + screenshots for each major step
 
-Submitted By: Ramanan Prabakaran- https://www.linkedin.com/in/ramanan-prabakaran/  Date: 06 October 2025
-Challenge: E-Commerce Checkout Flow with Dynamic Obstacles (Naveen)
+**Submitted By:** Ramanan Prabakaran
+https://www.linkedin.com/in/ramanan-prabakaran/  
+**Date:** 06 October 2025
+**Challenge:** E-Commerce Checkout Flow with Dynamic Obstacles (Naveen Khunteta‏)
