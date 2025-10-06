@@ -70,13 +70,13 @@ locked_out_user,secret_sauce
 
 The framework loops through all users and executes the checkout flow conditionally:
 
-✅ standard_user: completes flow successfully
+**✅ standard_user: completes flow successfully**
 <img width="1280" height="720" alt="test-finished-1" src="https://github.com/user-attachments/assets/f280fbf1-309c-4b1b-ab6a-c63baffa23c7" />
 
-⚠️ problem_user: verifies broken image handling
+**⚠️ problem_user: verifies broken image handling**
 <img width="1280" height="720" alt="test-failed-1" src="https://github.com/user-attachments/assets/79ea883b-197c-4797-b195-edc414b148af" />
 
-🚫 locked_out_user: asserts error message handling
+**🚫 locked_out_user: asserts error message handling**
 <img width="1280" height="720" alt="test-finished-1" src="https://github.com/user-attachments/assets/2de245bf-581c-40de-8c9f-cd742b73f6f4" />
 
 **Key Features**
@@ -121,7 +121,5 @@ Error Handling	Try/catch + assertions for negative cases
 Test Coverage	Includes positive, negative, and dynamic obstacles
 Reporting	HTML + screenshots for each major step
 
-Submitted By: Ramanan Prabakaran- https://www.linkedin.com/in/ramanan-prabakaran/
-Date: October 2025
+Submitted By: Ramanan Prabakaran- https://www.linkedin.com/in/ramanan-prabakaran/  Date: 06 October 2025
 Challenge: E-Commerce Checkout Flow with Dynamic Obstacles (Naveen)
-
